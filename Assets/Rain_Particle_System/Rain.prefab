@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4494817104629941869}
   - component: {fileID: 3330878534872306158}
   - component: {fileID: 987380599784750233}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Rain
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4845,7 +4845,7 @@ GameObject:
   - component: {fileID: 2054948804334845681}
   - component: {fileID: 3563170166421295316}
   - component: {fileID: 8240162781932192424}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Splash
   m_TagString: Untagged
   m_Icon: {fileID: 0}
